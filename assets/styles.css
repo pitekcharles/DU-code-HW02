@@ -1,0 +1,24 @@
+.footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background: grey;
+    color: white;
+    text-align: center;
+    height: 60px;
+    border-top: solid;
+    border-color: green;
+    border-width: 8px;
+}
+
+#footer-text {
+    color:white;
+}
+
+.wrapper {
+    border-style:solid;
+    border-color:grey;
+    border-width: 2px;
+    padding: 15px;
+    margin-top: 20px;
+}
